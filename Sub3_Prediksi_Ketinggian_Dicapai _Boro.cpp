@@ -3,7 +3,7 @@ using namespace std;
 // tinggimax=v^2*sin^2s/20
 int main()
 {
-    cout << "Prediksi Ketinggian Dicapai Boro\n";
+    cout << "Prediksi Ketinggian Dicapai Bubba\n";
     cout << "================================\n";
     float s, v, t;
     int status = 0; 
