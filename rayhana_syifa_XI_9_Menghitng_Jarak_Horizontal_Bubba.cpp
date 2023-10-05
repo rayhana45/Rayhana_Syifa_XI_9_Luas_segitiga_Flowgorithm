@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    cout<<"Menghitung Jarak Horizontal Terjauh Boro\n";
+    cout<<"Menghitung Jarak Horizontal Terjauh Bubba\n";
     cout<<"========================================\n";
     double s, v;
     cout << "Masukkan sudut penerbangan burung : ";
